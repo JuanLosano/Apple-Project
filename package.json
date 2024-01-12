@@ -1,0 +1,11 @@
+{
+  "name": "apple-project",
+  "version": "1.0.0",
+  "description": "Proyecto de clon de tienda Apple",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juan Losano",
+  "license": "ISC"
+}
